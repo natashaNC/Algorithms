@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms Completed, studies, working on 
+Algorithms Completed, studied, working on 
